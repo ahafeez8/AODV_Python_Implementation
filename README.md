@@ -1,8 +1,8 @@
 # AODV_Python_Implementation
 
 Introduction
-Ad Hoc distance vector routing protocol is one of the routing protocols in MANET (Mobile Ad hoc network) and is the descendent of the DSDV protocol. 
-It does not have a fixed topology in a network and is used for wireless reactive communications of nodes where links are created on demand/as needed. Sequence numbers are used for each need to check if routing tables are up to date. 
+Ad Hoc distance vector routing protocol is one of the routing protocols in MANET (Mobile Ad hoc network) and is the descendent of the DSDV protocol. It does not have a fixed topology in a network and is used for wireless reactive communications of nodes where links are created on demand/as needed. Sequence numbers are used for each need to check if routing tables are up to date. 
+
 Techniques and Methodologies
 Our implementation of AODV is done in Python on Linux system. It covers the following functionalities of AODV is specified by the project manual:
   •	Route discovery and path setup using RREQ and RREP messages
